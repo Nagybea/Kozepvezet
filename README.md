@@ -1,2 +1,2 @@
-# Kozepvezet
+# Kozepvezetok
 Előnyök és hátrányok
